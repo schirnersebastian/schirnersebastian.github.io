@@ -19,11 +19,6 @@ body {
 	font-size: 40px;
 }
 
-#hp  {
-	float: left;    
-	margin: 0 15px 0 0;
-}
-
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
