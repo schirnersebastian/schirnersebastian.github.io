@@ -1,3 +1,6 @@
+/*https://www.tutorialstonight.com/sample-html-code-for-homepage?expand_article=1*/
+
+
 body {
 	margin: 0;
 	background: #D3D3D3;
@@ -49,13 +52,13 @@ body {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
+  float: right;
   color: #585858;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  font-family: 'Lato';
+  font-family: sans-serif;
 }
 
 /* Change the color of links on hover */
