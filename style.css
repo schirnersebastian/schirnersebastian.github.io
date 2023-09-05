@@ -5,9 +5,16 @@ body {
 	font-family: 'Lato';
 }
 
-img {
+.pic {
 	width: 10%;
 	height: auto;
+	float: left;  
+}
+
+.maintext {
+	float: right;
+	text-align: left;
+	font-size: 40px;
 }
 
 #hp  {
