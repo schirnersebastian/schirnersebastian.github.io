@@ -24,6 +24,11 @@ body {
 	flex: 1;
 }
 
+  .pic img {
+            max-width: 100%;
+            height: auto;
+        }
+
 .maintext {
 	float: right;
 	text-align: left;
