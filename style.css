@@ -24,7 +24,7 @@ body {
 	flex: 1;
 }
 
-  .pic img {
+.pic img {
             max-width: 100%;
             height: auto;
         }
