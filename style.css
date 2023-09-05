@@ -144,14 +144,15 @@ body {
 
 .about-me {
   display: flex;
-  justify-content: center;
+  flex-direction: row;
+  justify-content: flex-start;
   align-items: center;
   padding: 40px 80px;
   border-top: 2px solid #eeeeee;
 }
 
 .about-me img {
-  width: 400px;
+  width: 300px;
   max-width: 100%;
   height: auto;
   border-radius: 10px;
@@ -161,7 +162,7 @@ body {
   font-size: 30px;
   color: #333333;
   text-transform: uppercase;
-  margin: 0;
+  margin: 10px;
 }
 
 .about-me-text p {
