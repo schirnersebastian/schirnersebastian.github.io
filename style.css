@@ -20,9 +20,8 @@ body {
 }
 
 .pic {
-	width: 45%;
-	height: auto;
-	float: left;  
+	max-width: 50%;
+	flex: 1;
 }
 
 .maintext {
