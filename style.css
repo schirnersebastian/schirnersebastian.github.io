@@ -1,11 +1,12 @@
 body {
 	margin: 0;
 	background: pink;
-	text-align:center;
+	text-align: center;
+	font-family: 'Lato';
 }
 
 img {
-	width: 30%;
+	width: 10%;
 	height: auto;
 }
 
@@ -23,6 +24,7 @@ img {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  font-family: 'Lato';
 }
 
 /* Change the color of links on hover */
