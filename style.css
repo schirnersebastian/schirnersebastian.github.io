@@ -174,9 +174,10 @@ body {
 }
 
 .about-me-text p {
-  font-size: 15px;
+  font-size: 25px;
   color: #585858;
   margin: 10px 0;
+  text-align: justify;
 }
 /* CSS for footer */
 .footer {
