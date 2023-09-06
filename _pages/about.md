@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-layout: single
+layout: splash
 header:
   teaser: /assets/images/Bild_Silvaplana.jpg
   header: /assets/images/Bild_Silvaplana.jpg
