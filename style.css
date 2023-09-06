@@ -176,8 +176,8 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #302f49;
-  padding: 40px 80px;
+  background-color: #333;
+  padding: 10px 80px;
 }
 
 .footer .copy {
