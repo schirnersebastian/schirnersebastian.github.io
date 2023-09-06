@@ -75,14 +75,14 @@ author:
       url: "https://instagram.com/"
 footer:
   links:
-    - label: "X"
-      icon: "fab fa-brands fa-x-twitter"
+    - label: "X-Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sepposchirner"
     - label: "University page"
-      icon: "fas fa-solid fa-building-columns"
+      icon: "fas fa-fw fa-link"
       url: "https://www.sowi2.ruhr-uni-bochum.de/sozialpolitik/index.html.de"
     - label: "sebastian.schirner@rub.de"
-      icon: "fa-solid fa-envelope"
+      icon: "fas fa-fw fa-link"
       url: "sebastian.schirner@rub.de"
 
 defaults:
