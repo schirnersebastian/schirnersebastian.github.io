@@ -23,13 +23,13 @@ is due to young councilors placing related topics on the agenda of local council
 
 
 
-## Policy paper (in German) 
+## Policy papers (in German) 
 
-Schirner, Sebastian / Hickmann, Helen / Malin, Lydia / Werner, Dirk, 2021, Fachkräfteengpässe in Unternehmen – Fachkräftemangel und Nachwuchsqualifizierung im Handwerk , Studie im Rahmen des Projektes Kompetenzzentrum Fachkräftesicherung (KOFA) in Zusammenarbeit mit dem Bundesministerium für Wirtschaft und Energie (BMWi) und in Zusammenarbeit mit dem Zentralverband des Deutschen Handwerks e.V. (ZDH), Köln
+Schirner, Sebastian, Hickmann, Helen, Malin, Lydia and Werner, Dirk (2021): "Fachkräfteengpässe in Unternehmen – Fachkräftemangel und Nachwuchsqualifizierung im Handwerk", Studie im Rahmen des Projektes Kompetenzzentrum Fachkräftesicherung (KOFA) in Zusammenarbeit mit dem Bundesministerium für Wirtschaft und Energie (BMWi) und in Zusammenarbeit mit dem Zentralverband des Deutschen Handwerks e.V. (ZDH), Köln
 {: style="text-align: justify; font-size:0.7em;"}
 
-Burstedde, Alexander / Flake, Regina / Jansen, Anika / Malin, Lydia / Risius, Paula / Seyda, Susanne / Schirner, Sebastian / Werner, Dirk, 2020, Die Messung des Fachkräftemangels. Methodik und Ergebnisse aus der IW-Fachkräftedatenbank zur Bestimmung von Engpass-berufen und zur Berechnung von Fachkräftelücken und anderen Indikatoren, IW-Report, Nr. 59, Köln.
+Burstedde, Alexander, Flake, Regina, Jansen, Anika, Malin, Lydia, Risius, Paula, Seyda, Susanne, Schirner, Sebastian and Werner, Dirk (2020): "Die Messung des Fachkräftemangels. Methodik und Ergebnisse aus der IW-Fachkräftedatenbank zur Bestimmung von Engpassberufen und zur Berechnung von Fachkräftelücken und anderen Indikatoren", *IW-Report*, Nr. 59, Institut der deutschen Wirtschaft (IW), Köln.
 {: style="text-align: justify; font-size:0.7em;"}
 
-Burstedde, Alexander / Schirner, Sebastian, 2019, Digitalisierung und die Zukunft von Berufen, IW-Kurzbericht, No. 48/2019, Institut der deutschen Wirtschaft (IW), Köln
+Burstedde, Alexander and Schirner, Sebastian (2019): "Digitalisierung und die Zukunft von Berufen", *IW-Kurzbericht*, No. 48/2019, Institut der deutschen Wirtschaft (IW), Köln
 {: style="text-align: justify; font-size:0.7em;"}
