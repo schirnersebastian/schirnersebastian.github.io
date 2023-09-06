@@ -1,6 +1,12 @@
 main:
-
-  - title: "CV"
-    url: /cv/
   - title: "About"
     url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: /cv/
+  - title: "Presentation"
+    url: /presentations/
+
+  
+  
