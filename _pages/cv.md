@@ -4,13 +4,10 @@ title: ""
 ---
 
 ## Employment
-01/2021 -
-:   Research Assistant and PhD-Student, Economics, Ruhr-University Bochum
+01/2021             Research Assistant and PhD-Student, Economics, Ruhr-University Bochum
+                    Supervisor: Prof. Dr. Zohal Hessami*
 
-    *Supervisor: Prof. Dr. Zohal Hessami*
-
-05/2020 - 12/2020
-:   Economist, Institute of the German Economy (IW Köln)
+05/2020 - 12/2020   Economist, Institute of the German Economy (IW Köln)
 
 ## Research visit
 04/2023 - 06/2023
