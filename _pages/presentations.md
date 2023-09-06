@@ -17,4 +17,4 @@ Meeting of the European Public Choice Society 2022 (Braga)
 15^th^ Doctoral Conference Ruhr Graduate School (virtual)  
 
 ### 2021
-15^th^ Workshop on Political Economy by ifo Dresden (virtual)  
+15<sup>th</sup> Workshop on Political Economy by ifo Dresden (virtual)  
