@@ -78,13 +78,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://twitter.com/sepposchirner"
+    - label: "University page"
+      icon: "fab fa-solid fa-building-columns"
+      url: "https://www.sowi2.ruhr-uni-bochum.de/sozialpolitik/index.html.de"
+    - label: "sebastian.schirner@rub.de"
+      icon: "fab fa-solid fa-envelope-open-text"
+      url: "sebastian.schirner@rub.de"
 
 defaults:
   # _posts
