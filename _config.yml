@@ -76,10 +76,10 @@ author:
 footer:
   links:
     - label: "X"
-      icon: "fa-brands fa-x-twitter"
+      icon: "fab fa-brands fa-x-twitter"
       url: "https://twitter.com/sepposchirner"
     - label: "University page"
-      icon: "fa-solid fa-building-columns"
+      icon: "fas fa-solid fa-building-columns"
       url: "https://www.sowi2.ruhr-uni-bochum.de/sozialpolitik/index.html.de"
     - label: "sebastian.schirner@rub.de"
       icon: "fa-solid fa-envelope"
