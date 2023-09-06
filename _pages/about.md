@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
 header:
   teaser: /assets/images/Bild_Silvaplana.jpg
   header: /assets/images/Bild_Silvaplana.jpg
