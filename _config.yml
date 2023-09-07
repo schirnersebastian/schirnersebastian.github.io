@@ -65,7 +65,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.sowi2.ruhr-uni-bochum.de/sozialpolitik/index.html.de"
     - label: "X-Twitter"
-      icon: "href=/assets/images/x-twitter.svg"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sepposchirner"
     - label: "sebastian.schirner@rub.de"
       icon: "fas fa-envelope"
