@@ -4,30 +4,30 @@ title: ""
 ---
 
 ## Employment
-01/2021 -  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bochum    
-PhD-Student, Ruhr-University Bochum    
-Supervisor: Prof. Dr. Zohal Hessami  
+01/2021 -  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bochum    
+&ensp;&ensp;&ensp;PhD-Student, Ruhr-University Bochum    
+&ensp;&ensp;&ensp;Supervisor: Prof. Dr. Zohal Hessami  
 
 05/2020 - 12/2020 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Cologne  
-Economist, Institute of the German Economy (IW Köln)
+&ensp;&ensp;&ensp;Economist, Institute of the German Economy (IW Köln)
 
 ## Research visit
 04/2023 - 06/2023 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Oslo   
-Norwegian Business School  
-Host: Prof. Jon H. Fiva  
+&ensp;&ensp;&ensp;Norwegian Business School  
+&ensp;&ensp;&ensp;Host: Prof. Jon H. Fiva  
 
 ## Education 
 10/2017 - 05/2020 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Cologne     
-M.Sc. Economics, University of Cologne 
+&ensp;&ensp;&ensp;M.Sc. Economics, University of Cologne 
 
 08/2015 - 12/2015 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bangkok    
-Semester abroad, Kasetsart University Bangkok
+&ensp;&ensp;&ensp;Semester abroad, Kasetsart University Bangkok
 
 10/2013 - 09/2017 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bayreuth   
-B.A. International Economics and Development, University of Bayreuth
+&ensp;&ensp;&ensp;B.A. International Economics and Development, University of Bayreuth
 
 09/2004 - 06/2012 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Forchheim   
-A-levels, Ehrenbürg-Gymnasium Forchheim
+&ensp;&ensp;&ensp;A-levels, Ehrenbürg-Gymnasium Forchheim
 
 ## Teaching (Bachelor-level)
 Seminar on the political economy of conflicts (German)  
