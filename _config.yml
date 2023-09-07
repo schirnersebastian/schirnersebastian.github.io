@@ -60,28 +60,30 @@ plugins:
 author:
   name   : "Sebastian Schirner"
   avatar : "/assets/images/Bild_EPCS.jpg"
-  bio    : "PhD-Student at Ruhr-University Bochum"
+  bio    : "he/him"
   links:
-    - label: "University Page"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.sowi2.ruhr-uni-bochum.de/sozialpolitik/index.html.de"
-    - label: "X-Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sepposchirner"
     - label: "sebastian.schirner@rub.de"
       icon: "fas fa-envelope"
       url: ""
-footer:
-  links:
-    - label: "X-Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sepposchirner"
     - label: "University page"
       icon: "fas fa-fw fa-link"
       url: "https://www.sowi2.ruhr-uni-bochum.de/sozialpolitik/index.html.de"
+    - label: "X-Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sepposchirner"
+
+footer:
+  links:
     - label: "sebastian.schirner@rub.de"
       icon: "fas fa-envelope"
       url: ""
+    - label: "University page"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.sowi2.ruhr-uni-bochum.de/sozialpolitik/index.html.de"
+    - label: "X-Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sepposchirner"
+
 
 defaults:
   # _posts
