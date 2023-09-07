@@ -4,6 +4,7 @@ title: ""
 author_profile: false
 ---
 ## Work in progress
+{::options auto_ids="false" /}
 
 ### MIGRATION SHOCKS, ELECTIONS, AND POLITICAL SELECTION
 with Zohal Hessami
