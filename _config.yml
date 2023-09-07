@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sepposchirner"
     - label: "sebastian.schirner@rub.de"
-      icon: "<i class="fas fa-envelope"></i>"
+      icon: "fas fa-envelope"
       url: ""
 footer:
   links:
