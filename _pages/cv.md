@@ -4,14 +4,16 @@ title: ""
 ---
 
 ## Employment
-01/2021 -  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bochum    
+01/2021 -  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bochum  
+{: style="text-align: justify; font-size:1em;"}
 &ensp;&ensp;&ensp;PhD-Student, Ruhr-University Bochum    
 &ensp;&ensp;&ensp;Supervisor: Prof. Dr. Zohal Hessami  
-{: style="text-align: justify; font-size:0.7em;"}
+{: style="text-align: justify; font-size:0.8em;"}
 
 05/2020 - 12/2020 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Cologne  
+{: style="text-align: justify; font-size:1em;"}
 &ensp;&ensp;&ensp;Economist, Institute of the German Economy (IW Köln)
-{: style="text-align: justify; font-size:0.7em;"}
+{: style="text-align: justify; font-size:0.8em;"}
 
 ## Research visit
 04/2023 - 06/2023 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Oslo   
