@@ -5,7 +5,7 @@ author_profile: false
 header_pages: []
 ---
 ## Presentations
-
+{::options auto_ids="false" /}
 ### 2023
 Verein für Socialpolitik Jahrestagung 2023 (Regensburg)  
 Silvaplana Workshop on Political Economy 2023 (Pontresina)  
