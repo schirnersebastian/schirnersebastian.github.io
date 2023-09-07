@@ -37,7 +37,8 @@ title: ""
 
 10/2013 - 09/2017 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bayreuth   
 {: style="text-align: justify; font-size:1em;"}
-&ensp;&ensp;&ensp;B.A. International Economics and Development, University of Bayreuth
+&ensp;&ensp;&ensp;B.A. International Economics and Development  
+&ensp;&ensp;&ensp;University of Bayreuth
 {: style="text-align: justify; font-size:0.8em;"}
 
 09/2004 - 06/2012 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Forchheim   
