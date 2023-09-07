@@ -1,7 +1,7 @@
 ---
 title: "Welcome!"
 layout: splash
-permalink: /about/
+permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
