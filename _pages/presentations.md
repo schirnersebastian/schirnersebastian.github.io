@@ -7,7 +7,6 @@ header_pages: []
 ## Presentations
 
 ### 2023
-{::options auto_ids="false"}
 Verein für Socialpolitik Jahrestagung 2023 (Regensburg)  
 Silvaplana Workshop on Political Economy 2023 (Pontresina)  
 Meeting of the European Public Choice Society 2023 (Hannover)  
