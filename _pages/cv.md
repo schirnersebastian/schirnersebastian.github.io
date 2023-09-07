@@ -4,15 +4,19 @@ title: ""
 ---
 
 ## Employment
-01/2021 -  &ensp;&ensp;&ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bochum  
-Research Assistant and PhD-Student, Economics, Ruhr-University Bochum  
-Supervisor: Prof. Dr. Zohal Hessami
+01/2021 -  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bochum    
+PhD-Student  
+Ruhr-University Bochum  
+Supervisor: Prof. Dr. Zohal Hessami  
 
-05/2020 - 12/2020 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Köln
-Economist, Institute of the German Economy (IW Köln)
+05/2020 - 12/2020 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Köln  
+Economist  
+Institute of the German Economy (IW Köln)
 
 ## Research visit
-04/2023 - 06/2023 &ensp;&ensp;&ensp; Norwegian Business School, Oslo (Host: Prof. Jon H. Fiva)
+04/2023 - 06/2023 &ensp;&ensp;&ensp; <i class="fas fa-map-marker-alt"></i> Oslo 
+Norwegian Business School  
+Host: Prof. Jon H. Fiva  
 
 ## Education 
 10/2017 - 05/2020 &ensp;&ensp;&ensp; M.Sc. Economics, University of Cologne 
