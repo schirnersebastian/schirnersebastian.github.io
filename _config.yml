@@ -112,3 +112,5 @@ tag_archive:
 atom_feed:
   hide: true
 
+header_pages: ['']
+
