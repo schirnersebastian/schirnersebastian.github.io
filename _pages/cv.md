@@ -46,13 +46,17 @@ title: ""
 
 ## Teaching (Bachelor-level)
 Fiscal Policy in a Federation (BSc, Seminar)  
-Krieg und Frieden - Die Politische Ökonomie von Konflikten (BSc, Seminar)  
+Krieg und Frieden - Die Politische Ökonomie von Konflikten (BSc, Seminar)
+{: style="text-align: justify; font-size:0.8em;"}
 
 ## Refereeing
 Journal of Conflict Resolution
+{: style="text-align: justify; font-size:0.8em;"}
 
 ## Software 
 Stata, R, LaTeX, Python, QGIS
+{: style="text-align: justify; font-size:0.8em;"}
 
 ## Language
 German (native) and English (fluent)
+{: style="text-align: justify; font-size:0.8em;"}
