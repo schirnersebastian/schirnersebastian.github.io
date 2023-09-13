@@ -9,7 +9,7 @@ header_pages: []
 ### 2023
 Verein für Socialpolitik Jahrestagung 2023 (Regensburg)  
 Silvaplana Workshop on Political Economy 2023 (Pontresina)  
-16<sup>th</sup> Doctoral Conference Ruhr Graduate School (Bochum)
+16<sup>th</sup> Doctoral Conference Ruhr Graduate School (Bochum)  
 Meeting of the European Public Choice Society 2023 (Hannover)  
 {: style="text-align: justify; font-size:0.8em;"}
 
