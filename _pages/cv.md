@@ -9,12 +9,12 @@ title: ""
 {: style="text-align: justify; font-size:1em;"}
 &ensp;&ensp;&ensp;PhD-Student, Ruhr-University Bochum  
 &ensp;&ensp;&ensp;Chair of Social Policy and Public Economics  
-&ensp;&ensp;&ensp;Supervisor: Prof. Dr. Zohal Hessami  
+&ensp;&ensp;&ensp;Supervisor: [Prof. Dr. Zohal Hessami ](https://sites.google.com/site/zohalhessami/home)
 {: style="text-align: justify; font-size:0.8em;"}
 
 05/2020 - 12/2020 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Cologne  
 {: style="text-align: justify; font-size:1em;"}
-&ensp;&ensp;&ensp;Economist, Institute of the German Economy (IW Köln)
+&ensp;&ensp;&ensp;Economist, German Economic Institute (IW Köln)
 {: style="text-align: justify; font-size:0.8em;"}
 
 ## Research visit
