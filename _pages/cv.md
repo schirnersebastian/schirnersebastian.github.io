@@ -46,7 +46,7 @@ title: ""
 &ensp;&ensp;&ensp;A-levels, Ehrenbürg-Gymnasium Forchheim
 {: style="text-align: justify; font-size:0.8em;"}
 
-## Teaching (Bachelor-level)
+## Teaching
 Fiscal Policy in a Federation (BSc, Seminar)  
 Krieg und Frieden - Die Politische Ökonomie von Konflikten (BSc, Seminar)
 {: style="text-align: justify; font-size:0.8em;"}
