@@ -2,7 +2,9 @@
 permalink: /cv/
 title: ""
 ---
-
+Get detailed CV [here](/CV_Sebastian_Schirner_09_2023.pdf)
+{: style="text-align: justify; font-size:0.8em;"}
+<br/><br/>
 ## Employment
 {::options auto_ids="false" /}
 01/2021 -  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bochum  
@@ -62,5 +64,3 @@ Stata, R, LaTeX, Python, QGIS
 ## Language
 German (native) and English (fluent)
 {: style="text-align: justify; font-size:0.8em;"}
-
-Get detailed CV [here](/CV_Sebastian_Schirner_09_2023.pdf)
