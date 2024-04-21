@@ -8,8 +8,7 @@ header_pages: []
 {::options auto_ids="false" /}
 
 ### 2024
-Junior Workshop on the Economic, Social, and Political Consequences of Migration (Leiden)
-Test
+The Economic, Social, and Political Consequences of Migration (Leiden)
 Meeting of the European Public Choice Society 2024 (Vienna)  
 {: style="text-align: justify; font-size:0.8em;"}
 
