@@ -1,4 +1,4 @@
----
+![grafik](https://github.com/schirnersebastian/schirnersebastian.github.io/assets/144111656/b7acd73c-e70d-46f3-8434-181f6f648bb8)---
 permalink: /presentations/
 title: ""
 author_profile: false
@@ -6,6 +6,12 @@ header_pages: []
 ---
 ## Presentations
 {::options auto_ids="false" /}
+
+### 2024
+Junior Workshop on the Economic, Social, and Political Consequences of Migration (Leiden)
+Meeting of the European Public Choice Society 2024 (Vienna)  
+{: style="text-align: justify; font-size:0.8em;"}
+
 ### 2023
 Verein für Socialpolitik Jahrestagung 2023 (Regensburg)  
 Silvaplana Workshop on Political Economy 2023 (Pontresina)  
