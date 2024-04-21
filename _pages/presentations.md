@@ -1,4 +1,3 @@
-![grafik](https://github.com/schirnersebastian/schirnersebastian.github.io/assets/144111656/b7acd73c-e70d-46f3-8434-181f6f648bb8)---
 permalink: /presentations/
 title: ""
 author_profile: false
