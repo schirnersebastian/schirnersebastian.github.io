@@ -6,6 +6,16 @@ author_profile: false
 ## Work in progress
 {::options auto_ids="false" /}
 
+### MANAGING MIGRATION: FEMALE MAYORS AND THE INTAKE OF ASYLUM SEEKERS
+
+**Abstract**
+This paper studies the impact of female leaders during a migration crisis. In particular, I
+examine female mayors in the German state of North Rhine-Westphalia during the intake
+of asylum seekers from Ukraine in 2022. I use granular data on compliance with the municipal
+allocation quota for asylum seekers and data on the municipal election of 2020. The identification strategy is a local difference-in-differences approach based on close mixed-gender races for the mayorship. Female mayors comply less with the allocation quota than
+male mayors in response to the crisis. The effect is not driven by other mayor characteristics or the fiscal capacity of municipalities. Also, there is no difference in the frequency of asylum seeker topics in council meetings. Instead, I argue that stronger electoral competition is a plausible mechanism inducing lower compliance of female mayors.
+{: style="text-align: justify; font-size:0.7em;"}
+
 ### MIGRATION SHOCKS, ELECTIONS, AND POLITICAL SELECTION
 with Zohal Hessami
 
