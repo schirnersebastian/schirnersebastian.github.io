@@ -23,7 +23,7 @@ Do young politicians prioritize other types of municipal spending than old polit
 This paper studies the impact of female leaders during a migration crisis. In particular, I examine female mayors in the German state of North Rhine-Westphalia during the intake of Ukrainian refugees in 2022/23. I use granular data on compliance with the municipal refugee allocation quota and data on the municipal election of 2020. The identification strategy is a local difference-in-differences approach based on close mixed-gender races for the mayorship. Female mayors comply less with the allocation quota than male mayors in response to the crisis. The effect is not driven by other mayor characteristics or the fiscal capacity of municipalities. Also, there is no difference in the frequency of refugee topics in council meetings. Instead, I argue that strong electoral competition is a plausible mechanism inducing lower compliance of female mayors.
 {: style="text-align: justify; font-size:0.7em;"}
 
-### Immigration Shocks and Shifting Ingroup Boundaries With Diverse Outgroups
+### Immigration Shocks and Shifting Ingroup Boundaries with Diverse Outgroups
 with Zohal Hessami
 
 **Abstract**
