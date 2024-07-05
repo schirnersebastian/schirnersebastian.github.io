@@ -8,6 +8,7 @@ header_pages: []
 {::options auto_ids="false" /}
 
 ### 2024
+3<sup>rd</sup> IEB Workshop on Public Policies (Barcelona)  
 The Economic, Social, and Political Consequences of Migration (Leiden)   
 Meeting of the European Public Choice Society 2024 (Vienna)    
 {: style="text-align: justify; font-size:0.8em;"}
