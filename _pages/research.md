@@ -7,7 +7,7 @@ author_profile: false
 {::options auto_ids="false" /}
 
 ### Young versus Old Politicians and Public Spending Priorities
-with Thushyanthan Baskaran and Zohal Hessami
+with Thushyanthan Baskaran and Zohal Hessami  
 Journal of Economic Behavior and Organization (accepted)
 
 **Abstract**
