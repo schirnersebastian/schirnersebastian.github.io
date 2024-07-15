@@ -19,7 +19,7 @@ title: ""
 ## Research visit
 04/2023 - 06/2023 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Oslo   
 {: style="text-align: justify; font-size:1em;"}
-&ensp;&ensp;&ensp;Norwegian Business School (BI)   
+&ensp;&ensp;&ensp;BI Norwegian Business School  
 &ensp;&ensp;&ensp;Host: Prof. Jon H. Fiva  
 {: style="text-align: justify; font-size:0.8em;"}
 
