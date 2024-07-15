@@ -17,17 +17,17 @@ Do young politicians prioritize other types of municipal spending than old polit
 ## Work in progress
 {::options auto_ids="false" /}
 
-### Managing Migration: Female Mayors and the Intake of Refugees
-
-**Abstract**
-This paper studies the impact of female leaders during a migration crisis. In particular, I examine female mayors in the German state of North Rhine-Westphalia during the intake of Ukrainian refugees in 2022/23. I use granular data on compliance with the municipal refugee allocation quota and data on the municipal election of 2020. The identification strategy is a local difference-in-differences approach based on close mixed-gender races for the mayorship. Female mayors comply less with the allocation quota than male mayors in response to the crisis. The effect is not driven by other mayor characteristics or the fiscal capacity of municipalities. Also, there is no difference in the frequency of refugee topics in council meetings. Instead, I argue that strong electoral competition is a plausible mechanism inducing lower compliance of female mayors.
-{: style="text-align: justify; font-size:0.7em;"}
-
-### Immigration Shocks and Shifting Social Group Boundaries
+### Immigration Shocks and Shifting Social Group Boundaries (Job Market Paper)
 with Zohal Hessami
 
 **Abstract**
 How and why do social group boundaries evolve over time? We study whether the arrival of a new wave of immigrants changes natives' perceptions of former immigrants and their descendants. We exploit the 2015 refugee crisis and the context of open-list local council elections where voting for immigrant-origin candidates represents a consequential revealed preference. We combine hand-collected candidate-level election data with administrative asylum seeker data for the German state of Hesse. We rely on machine learning tools to classify candidates' immigrant origin via their names. Difference-in-differences estimations with a continuous treatment (%-change of asylum seekers per municipality) reveal that immigrant-origin candidates receive more votes the more asylum seekers arrived in a municipality. This shift in social group boundaries only benefits candidates with a Southern/Eastern European origin who are culturally quite similar to native Germans.
+{: style="text-align: justify; font-size:0.7em;"}
+
+### Managing Migration: Female Mayors and the Intake of Refugees
+
+**Abstract**
+This paper studies the impact of female leaders during a migration crisis. In particular, I examine female mayors in the German state of North Rhine-Westphalia during the intake of Ukrainian refugees in 2022/23. I use granular data on compliance with the municipal refugee allocation quota and data on the municipal election of 2020. The identification strategy is a local difference-in-differences approach based on close mixed-gender races for the mayorship. Female mayors comply less with the allocation quota than male mayors in response to the crisis. The effect is not driven by other mayor characteristics or the fiscal capacity of municipalities. Also, there is no difference in the frequency of refugee topics in council meetings. Instead, I argue that strong electoral competition is a plausible mechanism inducing lower compliance of female mayors.
 {: style="text-align: justify; font-size:0.7em;"}
 
 ### Refugee Migration, Business Registrations, and Job Creation  
