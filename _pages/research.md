@@ -8,7 +8,7 @@ author_profile: false
 
 ### Young versus Old Politicians and Public Spending Priorities
 with Thushyanthan Baskaran and Zohal Hessami  
-*Journal of Economic Behavior and Organization* (accepted)
+*Journal of Economic Behavior and Organization*, 2024, 225, 88-106.
 
 **Abstract**
 Do young politicians prioritize other types of municipal spending than old politicians? We study this question using hand-collected candidate-level data on municipal elections (1996-2020), along with detailed administrative data on municipal spending in Bavaria. Our identification strategy makes use of within-party candidate-level races for marginal seats. Our findings indicate that municipalities with a higher proportion of young councilors allocate more resources to social spending. Further analysis reveals that this social spending increase is primarily driven by the expansion of public child care. Exploring mechanisms, we find evidence suggesting that young councilors affect policy choices indirectly through between- and within-party bargaining. 
