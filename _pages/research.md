@@ -6,7 +6,7 @@ author_profile: false
 ## Publications in peer-reviewed journals
 {::options auto_ids="false" /}
 
-### Young versus Old Politicians and Public Spending Priorities
+### Young versus Old Politicians and Public Spending Priorities {: link:https://authors.elsevier.com/sd/article/S0167-2681(24)00260-9}
 with Thushyanthan Baskaran and Zohal Hessami  
 *Journal of Economic Behavior and Organization*, 2024, 225, 88-106.
 
