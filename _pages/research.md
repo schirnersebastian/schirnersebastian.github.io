@@ -17,17 +17,19 @@ Do young politicians prioritize other types of municipal spending than old polit
 ## Work in progress
 {::options auto_ids="false" /}
 
-### Immigration Shocks and Shifting Social Group Boundaries (Job Market Paper)
+### [Immigration Shocks and Shifting Social Group Boundaries](https://docs.iza.org/dp17343.pdf)
 with Zohal Hessami
+*IZA Discussion Paper No. 17343*
 
 **Abstract**
-How and why do social group boundaries evolve over time? We study whether the arrival of a new wave of immigrants changes natives' perceptions of former immigrants and their descendants. We exploit the 2015 refugee crisis and the context of open-list local council elections where voting for immigrant-origin candidates represents a consequential revealed preference. We combine hand-collected candidate-level election data with administrative asylum seeker data for the German state of Hesse. We rely on machine learning tools to classify candidates' immigrant origin via their names. Difference-in-differences estimations with a continuous treatment (%-change of asylum seekers per municipality) reveal that immigrant-origin candidates receive more votes the more asylum seekers arrived in a municipality. This shift in social group boundaries only benefits candidates with a Southern/Eastern European origin who are culturally quite similar to native Germans.
+We study whether the arrival of a new immigrant wave changes natives’ acceptance of former immigrants and their descendants. We exploit the 2015 European refugee crisis
+and the context of German open-list local council elections where voting for immigrantorigin candidates represents a consequential revealed preference. We combine handcollected candidate-level election data with administrative asylum seeker data. Continuous difference-in-differences estimations (based on municipal %Δ in asylum seekers) reveal that immigrant-origin candidates receive more votes the more asylum seekers arrived locally. This shift in social group boundaries is driven by candidates with a Southern/Eastern European origin being culturally similar to Germans.
 {: style="text-align: justify; font-size:0.7em;"}
 
 ### Managing Migration: Female Mayors and the Intake of Refugees
 
 **Abstract**
-This paper studies the impact of female leaders during a migration crisis. In particular, I examine female mayors in the German state of North Rhine-Westphalia during the intake of Ukrainian refugees in 2022/23. I use granular data on compliance with the municipal refugee allocation quota and data on the municipal election of 2020. The identification strategy is a local difference-in-differences approach based on close mixed-gender races for the mayorship. Female mayors comply less with the allocation quota than male mayors in response to the crisis. The effect is not driven by other mayor characteristics or the fiscal capacity of municipalities. Also, there is no difference in the frequency of refugee topics in council meetings. Instead, I argue that strong electoral competition is a plausible mechanism inducing lower compliance of female mayors.
+This paper studies whether political leaders’ gender matters for their crisis management. In particular, I focus on female mayors in the German state of North Rhine-Westphalia during the intake of Ukrainian refugees in 2022/23. I use granular data on the fulfillment of the municipal refugee allocation quota and 2020 municipal election data. To identify causal effects, I rely on a local difference-in-differences approach based on close mixedgender mayorship races. Female mayors fulfill the allocation quota less than male mayors in response to the crisis. This effect is not driven by other mayor characteristics or the fiscal capacity of municipalities. I also provide evidence that the difference is not driven by the frequency of refugee topics in council meetings. Instead, the results suggest that strong electoral competition is a plausible mechanism for the lower quota fulfillment of female mayors.
 {: style="text-align: justify; font-size:0.7em;"}
 
 ### Refugee Migration, Business Registrations, and Job Creation  
