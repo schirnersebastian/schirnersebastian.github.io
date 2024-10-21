@@ -10,7 +10,7 @@ header_pages: []
 ### 2024
 Verein für Socialpolitik Jahrestagung 2024 (Berlin)  
 14<sup>th</sup> ifo Dresden Workshop on Regional Economics (Dresden)  
-Annual Congress of the IIPF (Prague) 
+Annual Congress of the IIPF (Prague)  
 3<sup>rd</sup> IEB Workshop on Public Policies (Barcelona)  
 The Economic, Social, and Political Consequences of Migration (Leiden)   
 Meeting of the European Public Choice Society 2024 (Vienna)    
