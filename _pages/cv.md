@@ -46,12 +46,13 @@ title: ""
 {: style="text-align: justify; font-size:0.8em;"}
 
 ## Teaching
-Fiscal Policy in a Federation (BSc, Seminar)  
-Krieg und Frieden - Die Politische Ökonomie von Konflikten (BSc, Seminar)
+Fiscal Policy in a Federation (Bachelor, Seminar)  
+Krieg und Frieden - Die Politische Ökonomie von Konflikten (Bachelor, Seminar)  
+Public Choice - Ökonomische Analyse der Politik (Bachelor, Seminar)  
 {: style="text-align: justify; font-size:0.8em;"}
 
 ## Refereeing
-Journal of Conflict Resolution
+Journal of Conflict Resolution, International Tax and Public Finance
 {: style="text-align: justify; font-size:0.8em;"}
 
 ## Software 
