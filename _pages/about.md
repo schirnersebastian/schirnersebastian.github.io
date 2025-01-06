@@ -9,7 +9,7 @@ header:
 excerpt: "Sebastian Schirner"
 ---
 
-I am a **postdoctoral researcher** at the ifo Institute in Munich. I work at the ifo Center for Migration and Development Economics. I earned my PhD at the Ruhr University Bochum. Before that, I was working as an economist at the German Economic Institute in Cologne.
+I am a **postdoctoral researcher** at the ifo Institute in Munich. I work at the ifo Center for Migration and Development Economics. I received my PhD from the Ruhr University Bochum in 2024. 
 {: style="text-align: justify;"}
 
 My research is on **local political economy, political selection, and migration**. I use fine-grained data and **micro-econometric methods** to establish causal relationships. 
