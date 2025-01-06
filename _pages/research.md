@@ -37,14 +37,14 @@ with Zohal Hessami and Clara Wobbe
 
 ## Policy papers (in German) 
 
-Werding, Martin, Läpple, Benjamin and Schirner, Sebastian (2024): "Modellrechnungen für den Sechsten Tragfähigkeitsbericht des BMF", FiFo-Berichte, No. 33
+Werding, Martin, Läpple, Benjamin and Schirner, Sebastian (2024): "Modellrechnungen für den Sechsten Tragfähigkeitsbericht des BMF", FiFo-Berichte, No. 33.
 {: style="text-align: justify; font-size:0.7em;"}
 
-Schirner, Sebastian, Hickmann, Helen, Malin, Lydia and Werner, Dirk (2021): "Fachkräfteengpässe in Unternehmen – Fachkräftemangel und Nachwuchsqualifizierung im Handwerk", *KOFA-Studie*, No. 1/2021, Köln
+Schirner, Sebastian, Hickmann, Helen, Malin, Lydia and Werner, Dirk (2021): "Fachkräfteengpässe in Unternehmen – Fachkräftemangel und Nachwuchsqualifizierung im Handwerk", *KOFA-Studie*, No. 1/2021, Köln.
 {: style="text-align: justify; font-size:0.7em;"}
 
 Burstedde, Alexander, Flake, Regina, Jansen, Anika, Malin, Lydia, Risius, Paula, Seyda, Susanne, Schirner, Sebastian and Werner, Dirk (2020): "Die Messung des Fachkräftemangels", *IW-Report*, No. 59/2020, Institut der deutschen Wirtschaft (IW), Köln.
 {: style="text-align: justify; font-size:0.7em;"}
 
-Burstedde, Alexander and Schirner, Sebastian (2019): "Digitalisierung und die Zukunft von Berufen", *IW-Kurzbericht*, No. 48/2019, Institut der deutschen Wirtschaft (IW), Köln
+Burstedde, Alexander and Schirner, Sebastian (2019): "Digitalisierung und die Zukunft von Berufen", *IW-Kurzbericht*, No. 48/2019, Institut der deutschen Wirtschaft (IW), Köln.
 {: style="text-align: justify; font-size:0.7em;"}
