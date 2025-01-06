@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Bild_Silvaplana.jpg
-excerpt: "Sebastian Schirner, PhD-Student"
+excerpt: "Sebastian Schirner"
 ---
 
 I am a **postdoctoral researcher** at the ifo Institute in Munich. I work at the ifo Center for Migration and Development Economics. I earned my PhD at the Ruhr University Bochum. Before that, I was working as an economist at the German Economic Institute in Cologne.
