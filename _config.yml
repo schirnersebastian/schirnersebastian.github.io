@@ -48,7 +48,7 @@ include: ["_pages"]
 
 assets:
   css:
-    - "/assets/css/custom.css"
+    - "/assets/custom.css"
 
 # Plugins (previously gems:)
 plugins:
