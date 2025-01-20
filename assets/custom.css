@@ -1,0 +1,3 @@
+.splash .page__footer a {
+    text-transform: none; /* Removes the uppercase transformation */
+}
