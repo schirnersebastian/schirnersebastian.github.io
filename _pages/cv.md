@@ -2,7 +2,7 @@
 permalink: /cv/
 title: ""
 ---
-## Employment
+# Employment
 {::options auto_ids="false" /}
 01/2021 -  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bochum  
 {: style="text-align: justify; font-size:1em;"}
@@ -16,14 +16,14 @@ title: ""
 &ensp;&ensp;&ensp;Economist, German Economic Institute (IW Köln)
 {: style="text-align: justify; font-size:0.8em;"}
 
-## Research visit
+# Research visit
 04/2023 - 06/2023 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Oslo   
 {: style="text-align: justify; font-size:1em;"}
 &ensp;&ensp;&ensp;BI Norwegian Business School  
 &ensp;&ensp;&ensp;Host: Prof. Jon H. Fiva  
 {: style="text-align: justify; font-size:0.8em;"}
 
-## Education 
+# Education 
 10/2017 - 05/2020 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Cologne  
 {: style="text-align: justify; font-size:1em;"}
 &ensp;&ensp;&ensp;M.Sc. Economics, University of Cologne 
@@ -45,13 +45,13 @@ title: ""
 &ensp;&ensp;&ensp;A-levels, Ehrenbürg-Gymnasium Forchheim
 {: style="text-align: justify; font-size:0.8em;"}
 
-## Teaching
+# Teaching
 Fiscal Policy in a Federation (Bachelor, Seminar)  
 Krieg und Frieden - Die Politische Ökonomie von Konflikten (Bachelor, Seminar)  
 Public Choice - Ökonomische Analyse der Politik (Bachelor, Seminar)  
 {: style="text-align: justify; font-size:0.8em;"}
 
-## Refereeing
+# Refereeing
 Journal of Conflict Resolution, International Tax and Public Finance
 {: style="text-align: justify; font-size:0.8em;"}
 
