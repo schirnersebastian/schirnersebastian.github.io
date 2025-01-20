@@ -1,6 +1,8 @@
 ---
 permalink: /cv/
 title: ""
+layout: single
+classes: wide
 ---
 # Employment
 {::options auto_ids="false" /}
