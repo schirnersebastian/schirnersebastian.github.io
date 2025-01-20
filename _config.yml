@@ -46,6 +46,10 @@ include: ["_pages"]
 #   - vendor/gems/
 #   - vendor/ruby/
 
+assets:
+  css:
+    - "/assets/css/custom.css"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
