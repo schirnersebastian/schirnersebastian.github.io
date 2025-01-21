@@ -4,9 +4,7 @@ title: ""
 layout: single
 classes: wide
 ---
-{% raw %}
-<div style="font-size: 0.8em;">
-{% endraw %}
+
 ### Employment
 {::options auto_ids="false" /}
 01/2025 - &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Postdoctoral researcher, ifo Institute Munich    
@@ -18,9 +16,9 @@ classes: wide
 ### Education
 {::options auto_ids="false" /}
 01/2021 - 02/2025 &ensp;&ensp;&ensp;PhD Economics (Dr. rer. oec.) Ruhr University Bochum    
-Chair of Social Policy and Public Economics  
-Supervisor: [Prof. Dr. Zohal Hessami ](https://sites.google.com/site/zohalhessami/home)   
-Grade: *Summa cum laude*
+&ensp;&ensp;&ensp;&ensp;&ensp;Chair of Social Policy and Public Economics  
+&ensp;&ensp;&ensp;&ensp;&ensp;Supervisor: [Prof. Dr. Zohal Hessami ](https://sites.google.com/site/zohalhessami/home)   
+&ensp;&ensp;&ensp;&ensp;&ensp;Grade: *Summa cum laude*
 
 10/2017 - 05/2020 &ensp;&ensp;&ensp;M.Sc. Economics, University of Cologne
 
@@ -41,7 +39,3 @@ Stata, R, LaTeX, Python, QGIS
 
 ### Language
 German (native) and English (fluent)
-
-{% raw %}
-</div>
-{% endraw %}
