@@ -4,6 +4,7 @@ title: ""
 layout: single
 classes: wide
 ---
+<div style="font-size: 0.8em;">
 ### Employment
 {::options auto_ids="false" /}
 01/2025 - &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Postdoctoral researcher, ifo Institute Munich    
@@ -50,3 +51,4 @@ Stata, R, LaTeX, Python, QGIS
 ### Language
 German (native) and English (fluent)
 {: style="text-align: justify; font-size:0.8em;"}
+</div>
