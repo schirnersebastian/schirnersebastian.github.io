@@ -72,7 +72,7 @@ author:
       url: "/CV_Schirner_July_2024.pdf"
     - label: "LinkedIn"
       icon: "fa fa-linkedin-square"
-      url: "www.linkedin.com/in/sebastian-schirner-a66684112"
+      url: "https://www.linkedin.com/in/sebastian-schirner-a66684112"
 
 footer:
   links:
@@ -80,8 +80,8 @@ footer:
       icon: "fas fa-envelope"
       url: ""
     - label: "LinkedIn"
-      icon: "fa fa-linkedin"
-      url: "www.linkedin.com/in/sebastian-schirner-a66684112"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/sebastian-schirner-a66684112"
 
 
 defaults:
