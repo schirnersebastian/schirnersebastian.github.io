@@ -27,32 +27,22 @@ Employment
 # Education 
 {::options auto_ids="false" /}
 01/2021 - 02/2025 &ensp;&ensp;&ensp;PhD Economics (Dr. rer. oec.) Ruhr University Bochum 
-{: style="text-align: justify; font-size:1em;"}
-&ensp;&ensp;&ensp&ensp;&ensp;&ensp;PhD-Student, Ruhr-University Bochum  
+{: font-size:1em;"}
 &ensp;&ensp;&ensp&ensp;&ensp;&ensp;Chair of Social Policy and Public Economics  
 &ensp;&ensp;&ensp&ensp;&ensp;&ensp;Supervisor: [Prof. Dr. Zohal Hessami ](https://sites.google.com/site/zohalhessami/home)
 {: style="text-align: justify; font-size:0.8em;"}
 
 
-10/2017 - 05/2020 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Cologne  
+10/2017 - 05/2020 &ensp;&ensp;&ensp;M.Sc. Economics, University of Cologne
 {: style="text-align: justify; font-size:1em;"}
-&ensp;&ensp;&ensp;M.Sc. Economics, University of Cologne 
 {: style="text-align: justify; font-size:0.8em;"}
 
-08/2015 - 12/2015 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bangkok    
+08/2015 - 12/2015 &ensp;&ensp;&ensp;Semester abroad, Kasetsart University Bangkok  
 {: style="text-align: justify; font-size:1em;"}
-&ensp;&ensp;&ensp;Semester abroad, Kasetsart University Bangkok
 {: style="text-align: justify; font-size:0.8em;"}
 
-10/2013 - 09/2017 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bayreuth   
+10/2013 - 09/2017 &ensp;&ensp;&ensp;B.A. International Economics and Development, University of Bayreuth  
 {: style="text-align: justify; font-size:1em;"}
-&ensp;&ensp;&ensp;B.A. International Economics and Development  
-&ensp;&ensp;&ensp;University of Bayreuth
-{: style="text-align: justify; font-size:0.8em;"}
-
-09/2004 - 06/2012 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Forchheim   
-{: style="text-align: justify; font-size:1em;"}
-&ensp;&ensp;&ensp;A-levels, Ehrenbürg-Gymnasium Forchheim
 {: style="text-align: justify; font-size:0.8em;"}
 
 # Teaching
