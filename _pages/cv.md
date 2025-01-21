@@ -4,7 +4,7 @@ title: ""
 layout: single
 classes: wide
 ---
-# Employment
+Employment
 {::options auto_ids="false" /}
 01/2021 -  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bochum  
 {: style="text-align: justify; font-size:1em;"}
@@ -26,6 +26,15 @@ classes: wide
 {: style="text-align: justify; font-size:0.8em;"}
 
 # Education 
+{::options auto_ids="false" /}
+01/2021 - 02/2025 &ensp;&ensp;&ensp;PhD Economics (Dr. rer. oec.) Ruhr University Bochum 
+{: style="text-align: justify; font-size:1em;"}
+&ensp;&ensp;&ensp&ensp;&ensp;&ensp;PhD-Student, Ruhr-University Bochum  
+&ensp;&ensp;&ensp&ensp;&ensp;&ensp;Chair of Social Policy and Public Economics  
+&ensp;&ensp;&ensp&ensp;&ensp;&ensp;Supervisor: [Prof. Dr. Zohal Hessami ](https://sites.google.com/site/zohalhessami/home)
+{: style="text-align: justify; font-size:0.8em;"}
+
+
 10/2017 - 05/2020 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Cologne  
 {: style="text-align: justify; font-size:1em;"}
 &ensp;&ensp;&ensp;M.Sc. Economics, University of Cologne 
