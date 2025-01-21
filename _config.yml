@@ -71,7 +71,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "/CV_Schirner_July_2024.pdf"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/sebastian-schirner-a66684112"
 
 footer:
