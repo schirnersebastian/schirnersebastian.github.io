@@ -7,9 +7,9 @@ classes: wide
 ### Employment
 {::options auto_ids="false" /}
 01/2025 - &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Postdoctoral researcher, ifo Institute Munich    
-{: style="text-align: justify; font-size:1em;"}
+{: style="text-align: justify; font-size:0.8em;"}
 05/2020 - 12/2020 &ensp;&ensp;&ensp;Economist, German Economic Institute (IW Köln)
-{: style="text-align: justify; font-size:1em;"}
+{: style="text-align: justify; font-size:0.8em;"}
 
 ### Research visit
 04/2023 - 06/2023 &ensp;&ensp;&ensp;Prof. Jon H. Fiva, BI Norwegian Business School, Oslo
@@ -22,6 +22,7 @@ classes: wide
 Chair of Social Policy and Public Economics  
 Supervisor: [Prof. Dr. Zohal Hessami ](https://sites.google.com/site/zohalhessami/home)   
 Grade: *Summa cum laude*
+{: font-size:0.8em;"}
 
 10/2017 - 05/2020 &ensp;&ensp;&ensp;M.Sc. Economics, University of Cologne
 {: style="text-align: justify; font-size:0.8em;"}
