@@ -13,6 +13,11 @@ classes: wide
 
 05/2020 - 12/2020 &ensp;&ensp;&ensp;Economist, German Economic Institute (IW Köln)
 
+|-------------------------|-----------------------------------------------------------------|
+| 01/2025 -               | Postdoctoral researcher, ifo Institute Munich                   |
+| 01/2021 - 12/2024       | Research assistant, Ruhr University Bochum                      |
+| 05/2020 - 12/2020       | Economist, German Economic Institute (IW Köln)   
+
 ### Research visit
 04/2023 - 06/2023 &ensp;&ensp;&ensp;Prof. Jon H. Fiva, BI Norwegian Business School, Oslo
 
