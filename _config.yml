@@ -70,8 +70,8 @@ author:
     - label: "Detailed CV"
       icon: "fas fa-fw fa-link"
       url: "/CV_Schirner_July_2024.pdf"
-    - label: "X-Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin-square"
       url: "https://twitter.com/sepposchirner"
 
 footer:
@@ -79,8 +79,8 @@ footer:
     - label: "schirner@ifo.de"
       icon: "fas fa-envelope"
       url: ""
-    - label: "X-Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin-square"
       url: "https://twitter.com/sepposchirner"
 
 
