@@ -6,16 +6,10 @@ classes: wide
 ---
 Employment
 {::options auto_ids="false" /}
-01/2021 -  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Bochum  
-{: font-size:1em;"}
-&ensp;&ensp;&ensp;Chair of Social Policy and Public Economics  
-&ensp;&ensp;&ensp;Supervisor: [Prof. Dr. Zohal Hessami ](https://sites.google.com/site/zohalhessami/home)
-{: style="text-align: justify; font-size:0.8em;"}
-
-05/2020 - 12/2020 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Cologne  
+01/2025 - Postdoctoral researcher, ifo Institute Munich    
 {: style="text-align: justify; font-size:1em;"}
-&ensp;&ensp;&ensp;Economist, German Economic Institute (IW Köln)
-{: style="text-align: justify; font-size:0.8em;"}
+05/2020 - 12/2020 &ensp;&ensp;&ensp;Economist, German Economic Institute (IW Köln)
+{: style="text-align: justify; font-size:1em;"}
 
 # Research visit
 04/2023 - 06/2023 &ensp;&ensp;&ensp;<i class="fas fa-map-marker-alt"></i> Oslo   
@@ -26,24 +20,19 @@ Employment
 
 # Education 
 {::options auto_ids="false" /}
-01/2021 - 02/2025 &ensp;&ensp;&ensp;PhD Economics (Dr. rer. oec.) Ruhr University Bochum 
+01/2021 - 02/2025 &ensp;&ensp;&ensp;PhD Economics (Dr. rer. oec.) Ruhr University Bochum    
 {: font-size:1em;"}
 &ensp;&ensp;&ensp&ensp;&ensp;&ensp;Chair of Social Policy and Public Economics  
 &ensp;&ensp;&ensp&ensp;&ensp;&ensp;Supervisor: [Prof. Dr. Zohal Hessami ](https://sites.google.com/site/zohalhessami/home)
-{: style="text-align: justify; font-size:0.8em;"}
-
 
 10/2017 - 05/2020 &ensp;&ensp;&ensp;M.Sc. Economics, University of Cologne
 {: style="text-align: justify; font-size:1em;"}
-{: style="text-align: justify; font-size:0.8em;"}
 
 08/2015 - 12/2015 &ensp;&ensp;&ensp;Semester abroad, Kasetsart University Bangkok  
 {: style="text-align: justify; font-size:1em;"}
-{: style="text-align: justify; font-size:0.8em;"}
 
 10/2013 - 09/2017 &ensp;&ensp;&ensp;B.A. International Economics and Development, University of Bayreuth  
 {: style="text-align: justify; font-size:1em;"}
-{: style="text-align: justify; font-size:0.8em;"}
 
 # Teaching
 Fiscal Policy in a Federation (Bachelor, Seminar)  
