@@ -7,7 +7,10 @@ classes: wide
 
 ### Employment
 {::options auto_ids="false" /}
-01/2025 - &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Postdoctoral researcher, ifo Institute Munich    
+01/2025 - &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Postdoctoral researcher, ifo Institute Munich 
+
+01/2021 - 12/2024 &ensp;&ensp;&ensp;Research assistant, Ruhr University Bochum    
+
 05/2020 - 12/2020 &ensp;&ensp;&ensp;Economist, German Economic Institute (IW Köln)
 
 ### Research visit
@@ -16,11 +19,11 @@ classes: wide
 ### Education
 {::options auto_ids="false" /}
 01/2021 - 02/2025 &ensp;&ensp;&ensp;PhD Economics (Dr. rer. oec.) Ruhr University Bochum    
-&ensp;&ensp;&ensp;&ensp;&ensp;Chair of Social Policy and Public Economics  
-&ensp;&ensp;&ensp;&ensp;&ensp;Supervisor: [Prof. Dr. Zohal Hessami ](https://sites.google.com/site/zohalhessami/home)   
-&ensp;&ensp;&ensp;&ensp;&ensp;Grade: *Summa cum laude*
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Chair of Social Policy and Public Economics  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Supervisor: [Prof. Dr. Zohal Hessami ](https://sites.google.com/site/zohalhessami/home)   
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Grade: *Summa cum laude*
 
-10/2017 - 05/2020 &ensp;&ensp;&ensp;M.Sc. Economics, University of Cologne
+10/2017 - 05/2020 &ensp;&ensp;&ensp;M.Sc. Economics, University of Cologne   
 
 08/2015 - 12/2015 &ensp;&ensp;&ensp;Semester abroad, Kasetsart University Bangkok  
 
