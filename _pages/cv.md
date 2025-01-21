@@ -7,7 +7,7 @@ classes: wide
 
 ### Employment
 {::options auto_ids="false" /}
-01/2025 - &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Postdoctoral researcher, ifo Institute Munich 
+01/2025 - &ensp;&ensp;&ensp;&emsp;&emsp;&ensp;&ensp;&ensp;Postdoctoral researcher, ifo Institute Munich 
 
 01/2021 - 12/2024 &ensp;&ensp;&ensp;Research assistant, Ruhr University Bochum    
 
@@ -18,7 +18,7 @@ classes: wide
 
 ### Education
 {::options auto_ids="false" /}
-01/2021 - 02/2025 &ensp;&ensp;&ensp;PhD Economics (Dr. rer. oec.) Ruhr University Bochum 
+01/2021 - 02/2025 &ensp;&ensp;&ensp;PhD Economics (Dr. rer. oec.), Ruhr University Bochum 
 {: style="text-align: justify; font-size:1em;"}
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Chair of Social Policy and Public Economics  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Supervisor: [Prof. Dr. Zohal Hessami ](https://sites.google.com/site/zohalhessami/home)   
