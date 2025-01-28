@@ -32,7 +32,7 @@ Krieg und Frieden - Die Politische Ökonomie von Konflikten (Bachelor, Seminar)
 Public Choice - Ökonomische Analyse der Politik (Bachelor, Seminar)
 
 ### Refereeing
-Journal of Conflict Resolution, International Tax and Public Finance
+European Journal of Political Economy, International Tax and Public Finance, Journal of Conflict Resolution
 
 ### Software 
 Stata, R, LaTeX, Python, QGIS
