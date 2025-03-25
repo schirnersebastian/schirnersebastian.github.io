@@ -25,18 +25,18 @@ Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Refugee Migration, 
 
 ## Policy papers (in German) 
 
-Werding, Martin, Läpple, Benjamin and Schirner, Sebastian (2024): "Modellrechnungen für den Sechsten Tragfähigkeitsbericht des BMF", *FiFo-Berichte*, No. 33.
+Werding, Martin, Läpple, Benjamin and Schirner, Sebastian (2024): Modellrechnungen für den Sechsten Tragfähigkeitsbericht des BMF, *FiFo-Berichte*, No. 33.
 [[Bericht](https://www.fifo-koeln.org/downloads/berichte/FiFo-Bericht%2033.pdf)]
 {: style="text-align: justify; font-size:0.7em;"}
 
-Schirner, Sebastian, Hickmann, Helen, Malin, Lydia and Werner, Dirk (2021): "Fachkräfteengpässe in Unternehmen – Fachkräftemangel und Nachwuchsqualifizierung im Handwerk", *KOFA-Studie*, No. 1/2021, Köln.
+Schirner, Sebastian, Hickmann, Helen, Malin, Lydia and Werner, Dirk (2021): Fachkräfteengpässe in Unternehmen – Fachkräftemangel und Nachwuchsqualifizierung im Handwerk, *KOFA-Studie*, No. 1/2021, Köln.
 [[Bericht](https://www.iwkoeln.de/studien/helen-hickmann-lydia-malin-dirk-werner-fachkraefteengpaesse-in-unternehmen-fachkraeftemangel-und-nachwuchsqualifizierung-im-handwerk.html)]
 {: style="text-align: justify; font-size:0.7em;"}
 
-Burstedde, Alexander, Flake, Regina, Jansen, Anika, Malin, Lydia, Risius, Paula, Seyda, Susanne, Schirner, Sebastian and Werner, Dirk (2020): "Die Messung des Fachkräftemangels", *IW-Report*, No. 59/2020, Institut der deutschen Wirtschaft (IW), Köln.
+Burstedde, Alexander, Flake, Regina, Jansen, Anika, Malin, Lydia, Risius, Paula, Seyda, Susanne, Schirner, Sebastian and Werner, Dirk (2020): Die Messung des Fachkräftemangels, *IW-Report*, No. 59/2020, Institut der deutschen Wirtschaft (IW), Köln.
 [[Bericht](https://www.iwkoeln.de/studien/alexander-burstedde-regina-flake-anika-jansen-lydia-malin-paula-risius-susanne-seyda-sebastian-schirner-dirk-werner-die-messung-des-fachkraeftemangels.html)]
 {: style="text-align: justify; font-size:0.7em;"}
 
-Burstedde, Alexander and Schirner, Sebastian (2019): "Digitalisierung und die Zukunft von Berufen", *IW-Kurzbericht*, No. 48/2019, Institut der deutschen Wirtschaft (IW), Köln.
+Burstedde, Alexander and Schirner, Sebastian (2019): Digitalisierung und die Zukunft von Berufen, *IW-Kurzbericht*, No. 48/2019, Institut der deutschen Wirtschaft (IW), Köln.
 [[Kurzbericht](https://www.iwkoeln.de/studien/alexander-burstedde-digitalisierung-und-die-zukunft-von-berufen-437592.html)]
 {: style="text-align: justify; font-size:0.7em;"}
