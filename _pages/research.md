@@ -14,7 +14,7 @@ Baskaran, Thushyanthan, Hessami, Zohal, and Schirner, Sebastian (2024): Young ve
 {::options auto_ids="false" /}
 
 Hessami, Zohal and Schirner, Sebastian (2024): Immigration Shocks and Shifting Social Group Boundaries, *IZA Discussion Paper No. 17343*.
-[[Workingpaper](https://docs.iza.org/dp17343.pdf)]
+[[Working Paper](https://docs.iza.org/dp17343.pdf)]
 {: style="text-align: justify; font-size:0.7em;"}
 
 Schirner, Sebastian (2025): Managing Migration: Female Mayors and the Intake of Refugees (Submitted)
