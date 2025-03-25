@@ -25,6 +25,7 @@ Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Refugee Migration, 
 
 Werding, Martin, Läpple, Benjamin and Schirner, Sebastian (2024): "Modellrechnungen für den Sechsten Tragfähigkeitsbericht des BMF", FiFo-Berichte, No. 33.
 {: style="text-align: justify; font-size:0.7em;"}
+[[Bericht](https://www.fifo-koeln.org/downloads/berichte/FiFo-Bericht%2033.pdf)]
 
 Schirner, Sebastian, Hickmann, Helen, Malin, Lydia and Werner, Dirk (2021): "Fachkräfteengpässe in Unternehmen – Fachkräftemangel und Nachwuchsqualifizierung im Handwerk", *KOFA-Studie*, No. 1/2021, Köln.
 {: style="text-align: justify; font-size:0.7em;"}
