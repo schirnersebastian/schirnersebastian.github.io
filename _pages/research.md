@@ -17,10 +17,10 @@ Hessami, Zohal and Schirner, Sebastian (2024): Immigration Shocks and Shifting S
 [[Working Paper](https://docs.iza.org/dp17343.pdf)]
 {: style="text-align: justify; font-size:0.7em;"}
 
-Schirner, Sebastian (2025): Managing Migration: Female Mayors and the Intake of Refugees (Submitted)
+Schirner, Sebastian (2025): Managing Migration: Female Mayors and the Intake of Refugees. *Submitted*
 {: style="text-align: justify; font-size:0.7em;"}
 
-Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Refugee Migration, Business Registrations, and Job Creation (Submitted) 
+Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Refugee Migration, Business Registrations, and Job Creation. *Submitted*
 {: style="text-align: justify; font-size:0.7em;"}
 
 ## Policy papers (in German) 
