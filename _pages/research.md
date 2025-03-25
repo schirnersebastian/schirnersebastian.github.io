@@ -6,21 +6,16 @@ author_profile: false
 ## Publications in peer-reviewed journals
 {::options auto_ids="false" /}
 
-# [Young versus Old Politicians and Public Spending Priorities](https://authors.elsevier.com/sd/article/S0167-2681(24)00260-9)
-with Thushyanthan Baskaran and Zohal Hessami  
-*Journal of Economic Behavior and Organization*, 2024, 225, 88-106.
+Baskaran, Thushyanthan, Hessami, Zohal, and Schirner, Sebastian (2024): [Young versus Old Politicians and Public Spending Priorities](https://authors.elsevier.com/sd/article/S0167-2681(24)00260-9), *Journal of Economic Behavior and Organization*, 225, 88-106.
 
 ## Work in progress
 {::options auto_ids="false" /}
 
-# [Immigration Shocks and Shifting Social Group Boundaries](https://docs.iza.org/dp17343.pdf)
-with Zohal Hessami  
-*IZA Discussion Paper No. 17343*
+Hessami, Zohal and Schirner, Sebastian (2024): [Immigration Shocks and Shifting Social Group Boundaries](https://docs.iza.org/dp17343.pdf), *IZA Discussion Paper No. 17343*.
 
-# Managing Migration: Female Mayors and the Intake of Refugees
+Schirner, Sebastian (2025): Managing Migration: Female Mayors and the Intake of Refugees (Submitted)
 
-# Refugee Migration, Business Registrations, and Job Creation  
-with Zohal Hessami and Clara Wobbe   
+Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Refugee Migration, Business Registrations, and Job Creation (Submitted) 
 
 ## Policy papers (in German) 
 
