@@ -7,7 +7,7 @@ classes: wide
 
 ### Employment
 {::options auto_ids="false" /}
-01/2025 - &ensp;&ensp;&emsp;&emsp;&emsp;&ensp;&ensp;Postdoctoral researcher, ifo Institute Munich 
+**01/2025 - &ensp;&ensp;&emsp;&emsp;&emsp;&ensp;&ensp;Postdoctoral researcher, ifo Institute Munich**
 {: style="text-align: justify; font-size:0.7em;"}
 
 01/2021 - 12/2024 &ensp;&ensp;&ensp;Research assistant, Ruhr University Bochum 
