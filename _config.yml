@@ -73,16 +73,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/sebastian-schirner-a66684112"
+    - label: "Google Scholar"
+      icon: "fa-brands fa-google-scholar"
+      url: "https://scholar.google.de/citations?hl=de&user=MqObTk8AAAAJ"
 
 footer:
   links:
-    - label: "schirner@ifo.de"
-      icon: "fas fa-envelope"
-      url: ""
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/sebastian-schirner-a66684112"
-
 
 defaults:
   # _posts
