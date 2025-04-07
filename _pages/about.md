@@ -14,3 +14,5 @@ I am a **postdoctoral researcher** at the ifo Institute in Munich. I work at the
 
 My research is on **local political economy, political selection, and migration**. I use fine-grained data and **micro-econometric methods** to establish causal relationships. 
 {: style="text-align: justify;"}
+
+Contact: schirner@ifo.de
