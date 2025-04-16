@@ -29,6 +29,7 @@ classes: wide
 .cv-desc {
   flex: 1;
   text-align: justify;
+  margin-left: 2rem;
 }
 </style>
 
