@@ -30,6 +30,12 @@ classes: wide
   text-align: justify;
   margin-left: 4rem;
 }
+
+  .cv-desc_nodate {
+  flex: 1;
+  text-align: justify;
+  margin-left: 0rem;
+}
 </style>
 
 ## Employment
@@ -83,7 +89,7 @@ classes: wide
 
 <div class="cv-section">
   <div class="cv-entry">
-    <div class="cv-desc">Fiscal Policy in a Federation (Bachelor, Seminar)</div>
+    <div class="cv-desc_nodate">Fiscal Policy in a Federation (Bachelor, Seminar)</div>
   </div>
   <div class="cv-entry">
     <div class="cv-desc">Krieg und Frieden – Die Politische Ökonomie von Konflikten (Bachelor, Seminar)</div>
