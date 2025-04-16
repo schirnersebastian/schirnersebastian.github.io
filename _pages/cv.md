@@ -92,10 +92,10 @@ classes: wide
     <div class="cv-desc_nodate">Fiscal Policy in a Federation (Bachelor, Seminar)</div>
   </div>
   <div class="cv-entry">
-    <div class="cv-desc">Krieg und Frieden – Die Politische Ökonomie von Konflikten (Bachelor, Seminar)</div>
+    <div class="cv-desc_nodate">Krieg und Frieden – Die Politische Ökonomie von Konflikten (Bachelor, Seminar)</div>
   </div>
   <div class="cv-entry">
-    <div class="cv-desc">Public Choice – Ökonomische Analyse der Politik (Bachelor, Seminar)</div>
+    <div class="cv-desc_nodate">Public Choice – Ökonomische Analyse der Politik (Bachelor, Seminar)</div>
   </div>
 </div>
 
@@ -103,8 +103,7 @@ classes: wide
 
 <div class="cv-section">
   <div class="cv-entry">
-    <div class="cv-date"></div>
-    <div class="cv-desc">European Journal of Political Economy, International Tax and Public Finance, Journal of Conflict Resolution</div>
+    <div class="cv-desc_nodate">European Journal of Political Economy, International Tax and Public Finance, Journal of Conflict Resolution</div>
   </div>
 </div>
 
@@ -112,8 +111,7 @@ classes: wide
 
 <div class="cv-section">
   <div class="cv-entry">
-    <div class="cv-date"></div>
-    <div class="cv-desc">Stata, R, LaTeX, Python, QGIS</div>
+    <div class="cv-desc_nodate">Stata, R, LaTeX, Python, QGIS</div>
   </div>
 </div>
 
@@ -121,7 +119,6 @@ classes: wide
 
 <div class="cv-section">
   <div class="cv-entry">
-    <div class="cv-date"></div>
-    <div class="cv-desc">German (native) and English (fluent)</div>
+    <div class="cv-desc_nodate">German (native) and English (fluent)</div>
   </div>
 </div>
