@@ -23,6 +23,7 @@ classes: wide
   width: 130px;
   flex-shrink: 0;
   font-weight: bold;
+  white-space: nowrap;
 }
 
 .cv-desc {
