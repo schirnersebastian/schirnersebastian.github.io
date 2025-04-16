@@ -9,7 +9,7 @@ classes: wide
 .cv-section {
   display: flex;
   flex-direction: column;
-  font-size: 0.85em;
+  font-size: 0.6em;
   margin-bottom: 1em;
 }
 
@@ -22,18 +22,17 @@ classes: wide
 .cv-date {
   width: 130px;
   flex-shrink: 0;
-  font-weight: bold;
   white-space: nowrap;
 }
 
 .cv-desc {
   flex: 1;
   text-align: justify;
-  margin-left: 2rem;
+  margin-left: 4rem;
 }
 </style>
 
-### Employment
+## Employment
 
 <div class="cv-section">
   <div class="cv-entry">
@@ -50,7 +49,7 @@ classes: wide
   </div>
 </div>
 
-### Employment
+## Employment
 {::options auto_ids="false" /}
 **01/2025 - &ensp;&ensp;&emsp;&emsp;&emsp;&ensp;&ensp;Postdoctoral researcher, ifo Institute Munich**
 {: style="text-align: justify; font-size:0.7em;"}
