@@ -5,6 +5,49 @@ layout: single
 classes: wide
 ---
 
+<style>
+.cv-section {
+  display: flex;
+  flex-direction: column;
+  font-size: 0.85em;
+  margin-bottom: 1em;
+}
+
+.cv-entry {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 0.3em;
+}
+
+.cv-date {
+  width: 130px;
+  flex-shrink: 0;
+  font-weight: bold;
+}
+
+.cv-desc {
+  flex: 1;
+  text-align: justify;
+}
+</style>
+
+### Employment
+
+<div class="cv-section">
+  <div class="cv-entry">
+    <div class="cv-date">01/2025 –</div>
+    <div class="cv-desc">Postdoctoral researcher, ifo Institute Munich</div>
+  </div>
+  <div class="cv-entry">
+    <div class="cv-date">01/2021 – 12/2024</div>
+    <div class="cv-desc">Research assistant, Ruhr University Bochum</div>
+  </div>
+  <div class="cv-entry">
+    <div class="cv-date">05/2020 – 12/2020</div>
+    <div class="cv-desc">Economist, German Economic Institute (IW Köln)</div>
+  </div>
+</div>
+
 ### Employment
 {::options auto_ids="false" /}
 **01/2025 - &ensp;&ensp;&emsp;&emsp;&emsp;&ensp;&ensp;Postdoctoral researcher, ifo Institute Munich**
