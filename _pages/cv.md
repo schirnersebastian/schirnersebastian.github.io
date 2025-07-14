@@ -76,7 +76,7 @@ classes: wide
   </div>
 </div>
 
-## Research Visit
+## Research visit
 
 <div class="cv-section">
   <div class="cv-entry">
@@ -103,7 +103,7 @@ classes: wide
 
 <div class="cv-section">
   <div class="cv-entry">
-    <div class="cv-desc_nodate">European Journal of Political Economy, International Tax and Public Finance, Journal of Conflict Resolution</div>
+    <div class="cv-desc_nodate">European Journal of Political Economy, International Tax and Public Finance, Economic Modelling, Journal of Conflict Resolution</div>
   </div>
 </div>
 
