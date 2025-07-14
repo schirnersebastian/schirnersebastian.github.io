@@ -7,6 +7,11 @@ header_pages: []
 ## Presentations
 {::options auto_ids="false" /}
 
+
+### 2025
+KIZ Political Economy Workshop (Munich)
+{: style="text-align: justify; font-size:0.7em;"}
+
 ### 2024
 14<sup>th</sup> Annual Conference on Immigration in OECD Countries (Paris)  
 Verein für Socialpolitik Jahrestagung 2024 (Berlin)  
