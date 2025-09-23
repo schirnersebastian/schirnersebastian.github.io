@@ -13,7 +13,7 @@ Baskaran, Thushyanthan, Hessami, Zohal, and Schirner, Sebastian (2024): Young ve
 ## Selected work in progress
 {::options auto_ids="false" /}
 
-Hessami, Zohal and Schirner, Sebastian (2024): Immigration Shocks and Shifting Social Group Boundaries, *IZA Discussion Paper No. 17343* *Revise and Resubmit at Economic Journal*.
+Hessami, Zohal and Schirner, Sebastian (2024): Immigration Shocks and Shifting Social Group Boundaries, *IZA Discussion Paper No. 17343*. *Revise and Resubmit at Economic Journal*.
 [[Working Paper](https://docs.iza.org/dp17343.pdf)]
 {: style="text-align: justify; font-size:0.7em;"}
 
