@@ -38,9 +38,13 @@ classes: wide
 }
 </style>
 
-## Employment
+## Employment and affiliations
 
 <div class="cv-section">
+  <div class="cv-entry">
+    <div class="cv-date">09/2025 –</div>
+    <div class="cv-desc">CESifo Research Network Affiliate</div>
+  </div>
   <div class="cv-entry">
     <div class="cv-date">01/2025 –</div>
     <div class="cv-desc">Postdoctoral researcher, ifo Institute Munich</div>
