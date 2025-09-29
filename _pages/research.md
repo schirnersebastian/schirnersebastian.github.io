@@ -20,7 +20,7 @@ Hessami, Zohal and Schirner, Sebastian (2024): Immigration Shocks and Shifting S
 Schirner, Sebastian (2025): Managing Migration: Female Mayors and the Intake of Refugees. *Revise and Resubmit at Journal of Economic Behavior & Organization*
 {: style="text-align: justify; font-size:0.7em;"}
 
-Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Refugee Migration, Business Registrations, and Job Creation. *Revise and Resubmit at Journal of Population Economics*
+Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Refugee Migration, Business Registrations, and Job Creation. *CESifo Working Paper No. 12151*. *Revise and Resubmit at Journal of Population Economics* [[Working Paper](https://www.ifo.de/en/cesifo/publications/2025/working-paper/asylum-seekers-new-businesses-and-job-creation)]
 {: style="text-align: justify; font-size:0.7em;"}
 
 ## Policy papers (in German) 
