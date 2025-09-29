@@ -59,7 +59,7 @@ classes: wide
 
 <div class="cv-section">
   <div class="cv-entry">
-    <div class="cv-date">01/2021 – 02/2025</div>
+    <div class="cv-date">01/2021 – 01/2025</div>
     <div class="cv-desc">PhD Economics (Dr. rer. oec.), Ruhr University Bochum</div>
   </div>
   <div class="cv-entry">
