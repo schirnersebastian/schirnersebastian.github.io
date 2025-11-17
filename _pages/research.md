@@ -10,14 +10,15 @@ Baskaran, Thushyanthan, Hessami, Zohal, and Schirner, Sebastian (2024): Young ve
 [[Paper](https://authors.elsevier.com/sd/article/S0167-2681(24)00260-9)]
 {: style="text-align: justify; font-size:0.7em;"}
 
+Schirner, Sebastian (2025): Managing Migration: Female Mayors and the Intake of Refugees. *Journal of Economic Behavior & Organization*, 240, 107306. 
+[[Paper]([https://authors.elsevier.com/sd/article/S0167-2681(24)00260-9](https://www.sciencedirect.com/science/article/pii/S0167268125004238?dgcid=author#ecom0001))]
+{: style="text-align: justify; font-size:0.7em;"}
+
 ## Selected work in progress
 {::options auto_ids="false" /}
 
 Hessami, Zohal and Schirner, Sebastian (2024): Immigration Shocks and Shifting Social Group Boundaries, *IZA Discussion Paper No. 17343*. *Revise and Resubmit at Economic Journal*.
 [[Working Paper](https://docs.iza.org/dp17343.pdf)]
-{: style="text-align: justify; font-size:0.7em;"}
-
-Schirner, Sebastian (2025): Managing Migration: Female Mayors and the Intake of Refugees. *Revise and Resubmit at Journal of Economic Behavior & Organization*
 {: style="text-align: justify; font-size:0.7em;"}
 
 Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Asylum Seekers, New Businesses, and Job Creation. *CESifo Working Paper No. 12151*. *Revise and Resubmit at Journal of Population Economics* [[Working Paper](https://www.ifo.de/en/cesifo/publications/2025/working-paper/asylum-seekers-new-businesses-and-job-creation)]
