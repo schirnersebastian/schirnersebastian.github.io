@@ -14,14 +14,21 @@ Schirner, Sebastian (2025): Managing Migration: Female Mayors and the Intake of 
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167268125004238)]
 {: style="text-align: justify; font-size:0.7em;"}
 
-## Selected work in progress
+Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Asylum Seekers, New Businesses, and Job Creation. *Journal of Population Economics, forthcoming* [[Working Paper](https://www.ifo.de/en/cesifo/publications/2025/working-paper/asylum-seekers-new-businesses-and-job-creation)]
+{: style="text-align: justify; font-size:0.7em;"}
+
+
+## Working papers
 {::options auto_ids="false" /}
 
 Hessami, Zohal and Schirner, Sebastian (2024): Immigration Shocks and Shifting Social Group Boundaries, *IZA Discussion Paper No. 17343*. *Revise and Resubmit at Economic Journal*.
 [[Working Paper](https://docs.iza.org/dp17343.pdf)]
 {: style="text-align: justify; font-size:0.7em;"}
 
-Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Asylum Seekers, New Businesses, and Job Creation. *CESifo Working Paper No. 12151*. *Revise and Resubmit at Journal of Population Economics* [[Working Paper](https://www.ifo.de/en/cesifo/publications/2025/working-paper/asylum-seekers-new-businesses-and-job-creation)]
+## Selected work in progress
+{::options auto_ids="false" /}
+
+Lehmann, Klara and Schirner, Sebastian: Beyond Residency: Variations in Local Ties and Electoral Success of Mayoral Candidates.
 {: style="text-align: justify; font-size:0.7em;"}
 
 ## Policy papers (in German) 
