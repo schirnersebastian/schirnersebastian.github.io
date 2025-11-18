@@ -9,7 +9,7 @@ header:
 excerpt: "Sebastian Schirner"
 ---
 
-I am a **postdoctoral researcher** at the ifo Institute in Munich. I work at the ifo Center for Migration and Development Economics. I am also a CESifo Research Network Affiliate. I received my PhD from the Ruhr University Bochum in 2024. 
+I am a **postdoctoral researcher** at the ifo Institute in Munich. I work at the ifo Center for Labor and Demographic Economics. I am also a CESifo Research Network Affiliate. I received my PhD from the Ruhr University Bochum in 2024. 
 {: style="text-align: justify;"}
 
 My research is on **local political economy, political selection, and migration**. I use fine-grained data and **micro-econometric methods** to establish causal relationships. 
