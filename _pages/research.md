@@ -11,7 +11,7 @@ Baskaran, Thushyanthan, Hessami, Zohal, and Schirner, Sebastian (2024): Young ve
 {: style="text-align: justify; font-size:0.7em;"}
 
 Schirner, Sebastian (2025): Managing Migration: Female Mayors and the Intake of Refugees. *Journal of Economic Behavior & Organization*, 240, 107306. 
-[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167268125004238)][[Code](/replication_code_managing_migration.zip)]
+[[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167268125004238)][[Paper](/managing_migration_schirner_2025.pdf)][[Code](/replication_code_managing_migration.zip)]
 {: style="text-align: justify; font-size:0.7em;"}
 
 Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Asylum Seekers, New Businesses, and Job Creation. *Journal of Population Economics, forthcoming* [[Working Paper](https://www.ifo.de/en/cesifo/publications/2025/working-paper/asylum-seekers-new-businesses-and-job-creation)]
