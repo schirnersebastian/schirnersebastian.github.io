@@ -14,7 +14,7 @@ Schirner, Sebastian (2025): Managing Migration: Female Mayors and the Intake of 
 [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0167268125004238)][[Paper](/managing_migration_schirner_2025.pdf)][[Code](/replication_code_managing_migration.zip)]
 {: style="text-align: justify; font-size:0.7em;"}
 
-Hessami, Zohal, Schirner, Sebastian and Wobbe, Clara (2025): Asylum Seekers, New Businesses, and Job Creation. *Journal of Population Economics, forthcoming* [[Working Paper](https://www.ifo.de/en/cesifo/publications/2025/working-paper/asylum-seekers-new-businesses-and-job-creation)]
+Hessami, Zohal, Schirner, Sebastian, and Wobbe, Clara (2025): Asylum seekers, new businesses, and job creation. *Journal of Population Economics* 38, 87. [[Paper](https://link.springer.com/article/10.1007/s00148-025-01143-x)]
 {: style="text-align: justify; font-size:0.7em;"}
 
 
