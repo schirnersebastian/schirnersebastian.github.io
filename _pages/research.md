@@ -33,6 +33,10 @@ Lehmann, Klara and Schirner, Sebastian: Beyond Residency: Variations in Local Ti
 
 ## Policy papers (in German) 
 
+Albrecht, Clara, Bayram, Ahmet Erdem, Hessami, Zohal, Schirner, Sebastian, Wobbe, Clara (2025): ifo Migrationsmonitor - Migrantische Unternehmensgründungen, *ifo Schnelldienst*, 78, No. 12.
+[[Bericht](https://www.ifo.de/publikationen/2025/aufsatz-zeitschrift/ifo-migrationsmonitor-migrantische-unternehmensgruendungen)]
+{: style="text-align: justify; font-size:0.7em;"}
+
 Werding, Martin, Läpple, Benjamin and Schirner, Sebastian (2024): Modellrechnungen für den Sechsten Tragfähigkeitsbericht des BMF, *FiFo-Berichte*, No. 33.
 [[Bericht](https://www.fifo-koeln.org/downloads/berichte/FiFo-Bericht%2033.pdf)]
 {: style="text-align: justify; font-size:0.7em;"}
