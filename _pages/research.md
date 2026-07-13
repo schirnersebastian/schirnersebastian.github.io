@@ -28,7 +28,7 @@ Hessami, Zohal and Schirner, Sebastian (2024): Immigration Shocks and Shifting S
 {::options auto_ids="false" /}
 
 Lehmann, Klara and Schirner, Sebastian: Beyond Residency: Variations in Local Ties and Electoral Success of Mayoral Candidates.
-[[AEA RCT Registry](https://www.socialscienceregistry.org/trials/19103)]
+[[AEARCTR-0019103](https://www.socialscienceregistry.org/trials/19103)]
 {: style="text-align: justify; font-size:0.7em;"}
 
 ## Policy papers (in German) 
