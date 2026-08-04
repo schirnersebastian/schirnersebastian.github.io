@@ -40,6 +40,11 @@ with Klara Lehmann
 [[AEARCTR-0019103](https://www.socialscienceregistry.org/trials/19103)]
 {: style="text-align: justify; font-size:0.7em;"}
 
+**Policies to Incentivize Ukrainian Refugees to Return**  
+with Lasha Chargaziia, Yvonne Giesing, Gabriele Gurrieri, Yuliya Kosyakova, Panu Poutvaara, Kerstin Tanis, Hannah Vakhitova, Volodymyr Vakhitov, Nataliia Zaika and Sabine Zinn  
+[[AEARCTR-0018178](https://www.socialscienceregistry.org/trials/18178)]
+{: style="text-align: justify; font-size:0.7em;"}
+
 ## Policy papers (in German) 
 
 **ifo Migrationsmonitor - Migrantische Unternehmensgründungen**  
