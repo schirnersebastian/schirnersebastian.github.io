@@ -41,7 +41,7 @@ with Klara Lehmann
 {: style="text-align: justify; font-size:0.7em;"}
 
 **Policies to Incentivize Ukrainian Refugees to Return**  
-with Lasha Chargaziia, Yvonne Giesing, Gabriele Gurrieri, Yuliya Kosyakova, Panu Poutvaara, Kerstin Tanis, Hannah Vakhitova, Volodymyr Vakhitov, Nataliia Zaika and Sabine Zinn  
+with Lasha Chargaziia, Yvonne Giesing, Gabriele Gurrieri, Yuliya Kosyakova, Panu Poutvaara, Kerstin Tanis, Hannah Vakhitova, Volodymyr Vakhitov, Nataliia Zaika, and Sabine Zinn  
 [[AEARCTR-0018178](https://www.socialscienceregistry.org/trials/18178)]
 {: style="text-align: justify; font-size:0.7em;"}
 
@@ -49,7 +49,7 @@ with Lasha Chargaziia, Yvonne Giesing, Gabriele Gurrieri, Yuliya Kosyakova, Panu
 
 **ifo Migrationsmonitor - Migrantische Unternehmensgründungen**  
 *ifo Schnelldienst* (2025), 78, No. 12.  
-with Clara Albrecht, Ahmet Erdem Bayram, Zohal Hessami and Clara Wobbe  
+with Clara Albrecht, Ahmet Erdem Bayram, Zohal Hessami, and Clara Wobbe  
 [[Bericht](https://www.ifo.de/publikationen/2025/aufsatz-zeitschrift/ifo-migrationsmonitor-migrantische-unternehmensgruendungen)]
 {: style="text-align: justify; font-size:0.7em;"}
 
@@ -61,13 +61,13 @@ with Martin Werding and Benjamin Läpple
 
 **Fachkräfteengpässe in Unternehmen – Fachkräftemangel und Nachwuchsqualifizierung im Handwerk**  
 *KOFA-Studie* (2021), No. 1/2021, Köln.  
-with Helen Hickmann, Lydia Malin and Dirk Werner  
+with Helen Hickmann, Lydia Malin, and Dirk Werner  
 [[Bericht](https://www.iwkoeln.de/studien/helen-hickmann-lydia-malin-dirk-werner-fachkraefteengpaesse-in-unternehmen-fachkraeftemangel-und-nachwuchsqualifizierung-im-handwerk.html)]
 {: style="text-align: justify; font-size:0.7em;"}
 
 **Die Messung des Fachkräftemangels**  
 *IW-Report* (2020), No. 59/2020, Institut der deutschen Wirtschaft (IW), Köln.  
-with Alexander Burstedde, Regina Flake, Anika Jansen, Lydia Malin, Paula Risius, Susanne Seyda and Dirk Werner  
+with Alexander Burstedde, Regina Flake, Anika Jansen, Lydia Malin, Paula Risius, Susanne Seyda, and Dirk Werner  
 [[Bericht](https://www.iwkoeln.de/studien/alexander-burstedde-regina-flake-anika-jansen-lydia-malin-paula-risius-susanne-seyda-sebastian-schirner-dirk-werner-die-messung-des-fachkraeftemangels.html)]
 {: style="text-align: justify; font-size:0.7em;"}
 
