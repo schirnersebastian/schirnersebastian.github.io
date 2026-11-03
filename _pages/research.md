@@ -47,7 +47,7 @@ with Lasha Chargaziia, Yvonne Giesing, Gabriele Gurrieri, Yuliya Kosyakova, Panu
 
 ## Policy papers (in German) 
 
-**Migrationskrisen gestalten – die Rolle von politischen Anreizen**
+**Migrationskrisen gestalten – die Rolle von politischen Anreizen**  
 *ifo Schnelldienst* (2026), 79, No. 8.
 [[Bericht](https://www.ifo.de/publikationen/2026/aufsatz-zeitschrift/migrationskrisen-gestalten)]
 {: style="text-align: justify; font-size:0.7em;"}
