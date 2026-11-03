@@ -27,7 +27,7 @@ with Zohal Hessami and Clara Wobbe
 {::options auto_ids="false" /}
 
 **Immigration Shocks and Shifting Social Group Boundaries**  
-*IZA Discussion Paper* No. 17343 (2024). *Revise and Resubmit at Economic Journal*.  
+*IZA Discussion Paper* No. 17343 (2024). *conditionally accepted at Economic Journal*.  
 with Zohal Hessami  
 [[Working Paper](https://docs.iza.org/dp17343.pdf)]
 {: style="text-align: justify; font-size:0.7em;"}
@@ -46,6 +46,11 @@ with Lasha Chargaziia, Yvonne Giesing, Gabriele Gurrieri, Yuliya Kosyakova, Panu
 {: style="text-align: justify; font-size:0.7em;"}
 
 ## Policy papers (in German) 
+
+**Migrationskrisen gestalten – die Rolle von politischen Anreizen**
+*ifo Schnelldienst* (2026), 79, No. 8.
+[[Bericht](https://www.ifo.de/publikationen/2026/aufsatz-zeitschrift/migrationskrisen-gestalten)]
+{: style="text-align: justify; font-size:0.7em;"}
 
 **ifo Migrationsmonitor - Migrantische Unternehmensgründungen**  
 *ifo Schnelldienst* (2025), 78, No. 12.  
