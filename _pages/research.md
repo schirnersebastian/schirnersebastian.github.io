@@ -47,12 +47,18 @@ with Lasha Chargaziia, Yvonne Giesing, Gabriele Gurrieri, Yuliya Kosyakova, Panu
 
 ## Policy papers (in German) 
 
+**Mobilizing Underutilized Labor Resources in Aging Societies**  
+*EconPol Policy Report 60.
+with Shahar Cohen, Alessandro Di Filippo, Giuseppe Di Giacomo, Gabriele Gurrieri, Pia Heckl, Helmut Rainer, Clémence Taisne  
+[[Bericht](https://www.ifo.de/en/econpol/publications/2026/working-paper/mobilizing-underutilized-labor-resources-aging-societies)]
+{: style="text-align: justify; font-size:0.7em;"}
+
 **Migrationskrisen gestalten – die Rolle von politischen Anreizen**  
 *ifo Schnelldienst* (2026), 79, No. 8.  
 [[Bericht](https://www.ifo.de/publikationen/2026/aufsatz-zeitschrift/migrationskrisen-gestalten)]
 {: style="text-align: justify; font-size:0.7em;"}
 
-**ifo Migrationsmonitor - Migrantische Unternehmensgründungen**  
+**ifo Migrationsmonitor – Migrantische Unternehmensgründungen**  
 *ifo Schnelldienst* (2025), 78, No. 12.  
 with Clara Albrecht, Ahmet Erdem Bayram, Zohal Hessami, and Clara Wobbe  
 [[Bericht](https://www.ifo.de/publikationen/2025/aufsatz-zeitschrift/ifo-migrationsmonitor-migrantische-unternehmensgruendungen)]
