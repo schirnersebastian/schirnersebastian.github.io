@@ -48,7 +48,7 @@ with Lasha Chargaziia, Yvonne Giesing, Gabriele Gurrieri, Yuliya Kosyakova, Panu
 ## Policy papers (in German) 
 
 **Mobilizing Underutilized Labor Resources in Aging Societies**  
-*EconPol Policy Report 60.
+*EconPol Policy Report* 60.  
 with Shahar Cohen, Alessandro Di Filippo, Giuseppe Di Giacomo, Gabriele Gurrieri, Pia Heckl, Helmut Rainer, Clémence Taisne  
 [[Bericht](https://www.ifo.de/en/econpol/publications/2026/working-paper/mobilizing-underutilized-labor-resources-aging-societies)]
 {: style="text-align: justify; font-size:0.7em;"}
