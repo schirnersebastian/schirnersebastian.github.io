@@ -45,7 +45,7 @@ with Lasha Chargaziia, Yvonne Giesing, Gabriele Gurrieri, Yuliya Kosyakova, Panu
 [[AEARCTR-0018178](https://www.socialscienceregistry.org/trials/18178)]
 {: style="text-align: justify; font-size:0.7em;"}
 
-## Policy papers (in German) 
+## Policy work
 
 **Mobilizing Underutilized Labor Resources in Aging Societies**  
 *EconPol Policy Report* 60.  
