@@ -47,7 +47,7 @@ classes: wide
   </div>
   <div class="cv-entry">
     <div class="cv-date">01/2025 –</div>
-    <div class="cv-desc">Postdoctoral researcher, ifo Institute Munich</div>
+    <div class="cv-desc">Assistant Professor (non-tenured), ifo Institute Munich</div>
   </div>
   <div class="cv-entry">
     <div class="cv-date">01/2021 – 12/2024</div>
